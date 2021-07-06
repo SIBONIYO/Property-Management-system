@@ -1,0 +1,173 @@
+body{
+  background-color: white;
+}
+
+
+.App-header {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.formLoggin{
+  background-color: beige;
+  width: 350px;
+  height: 280px;
+  border: black solid 2px;
+  border-radius: 7px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  margin-left: 40%;
+}
+.username1{
+  font-size: 15px;
+  display: flex;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px;
+}
+.password1{
+  font-size: 15px;
+  display: flex;
+  margin-left: 10px;
+  padding: 10px;
+}
+.buildingName{
+  font-size: 15px;
+  display: flex;
+  margin-left: 10px;
+  padding: 10px;
+}
+.inputA {
+  font-size: 15px;
+  width: 200px;
+  height: 20px;
+  margin-left: 40px;
+  margin-top: 0px;
+}
+.inputB {
+  font-size: 15px;
+  width: 200px;
+  height: 20px;
+  margin-left: 44px;
+  margin-top: 0px;
+}
+.inputC {
+  font-size: 15px;
+  width: 200px;
+  height: 20px;
+  margin-left: 10px;
+  margin-top: 0px;
+}
+.buttonLogin{
+  margin-left: 130px;
+  width: 70px;
+  height: 30px;
+  background: rgb(178, 219, 230);
+}
+.buttonCancel{
+  margin-left: 70px;
+  width: 70px;
+  height: 30px;
+  background: red;
+}
+.anchor1{
+  padding: 15px;
+  text-decoration: none;
+}
+.p2{
+  margin-left: 15px;
+  margin-top: 2px;
+}
+.anchor2{
+  margin-left: 40%;
+  margin-top: 5px;
+}
+.contuctUsLandingPage{
+  background-color: lightblue;
+  width: 1300px;
+  height: 250px;
+  border: black solid 2px;
+  border-radius: 2px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+.contuctUsLandingPage h3{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.Lebel{
+  margin-left: 10px;
+  display: block; 
+}
+.input2 {
+  font-size: 15px;
+  width: 200px;
+  height: 20px;
+  margin-left: 50px;
+  margin-top: 0px;
+}
+.input3 {
+  font-size: 15px;
+  width: 200px;
+  height: 20px;
+  margin-left: 23px;
+  margin-top: 0px;
+}
+.input4 {
+  font-size: 15px;
+  width: 200px;
+  height: 20px;
+  margin-left: 54px;
+  margin-top: 0px; 
+}
+.username2{
+  font-size: 15px;
+  display: flex;
+  margin-left: 10px;
+  margin-top: -10px;
+}
+.column2{
+  display: flex;
+  padding: 10px;
+} 
+.description{
+  margin-left: 100px;
+  margin-top: 0px;
+}
+.descriptionText{
+  margin-top: auto;
+}
+.submitbutton{
+  width: 70px;
+  height: 30px;
+  margin-left: 10px;
+}
+.inputText{
+  width: 250px;
+  height: 30px;
+  margin-top: 0px;
+  margin-left: 10px;
+}
+.socialMedia{
+  margin-left: 100px;
+  font-size: 15px;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+
+.footer{
+  background-color: cadetblue;
+  width: 100%;
+  text-align: center;
+}
